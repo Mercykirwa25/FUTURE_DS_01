@@ -1,14 +1,14 @@
-📈 Superstore Sales Performance Analytics
-📊 Project Overview
+## 📈 Superstore Sales Performance Analytics
+### 📊 Project Overview
 
 This project analyzes the Superstore Sales Dataset from Kaggle [https://www.kaggle.com/datasets/vivek468/superstore-dataset-final]
  to provide actionable insights into sales, revenue, profit, and regional performance. By combining exploratory data analysis (EDA) in Python with interactive visualizations in Tableau, this project helps businesses understand top-performing products, profitable categories, and growth opportunities to maximize revenue and profitability.
 
-🧠 Business Problem
+### 🧠 Business Problem
 
 Businesses often struggle to determine which products, categories, and regions contribute most to revenue and profit, or how sales trends evolve over time. Misaligned efforts and resource allocation can limit growth and profitability.
 
-Project Goals:
+### Project Goals:
 
 Identify products that generate the highest revenue.
 
@@ -18,7 +18,7 @@ Determine the most profitable categories and regions.
 
 Provide data-driven recommendations on where to focus for faster and sustainable growth.
 
-🔉 Stakeholders
+### 🔉 Stakeholders
 
 Sales and Marketing Teams: Promote top products and drive revenue growth.
 
@@ -28,25 +28,25 @@ Regional Management: Improve sales and profitability in underperforming regions.
 
 Executive Leadership: Make strategic decisions using data-driven insights.
 
-📁 Project Workflow
+### 📁 Project Workflow
 
-Business Understanding
+1. Business Understanding
 
 Define key business questions and objectives.
 
-Data Understanding
+2. Data Understanding
 
 - Explore the dataset structure and key features.
 
 - Validate data quality (no missing values or duplicates).
 
-Data Preparation
+3. Data Preparation
 
 - Convert Order Date and Ship Date to datetime.
 
 - Prepare data for visualization and dashboarding.
 
-- Exploratory Data Analysis (EDA) and Insights
+4. Exploratory Data Analysis (EDA) and Insights
 
   - Revenue by Sub-Category
 
@@ -57,11 +57,11 @@ Data Preparation
   - Profit by Category and Region
 
 
-Visualization and Dashboarding (Tableau)
+5. Visualization and Dashboarding (Tableau)
 
 KPI cards: Total Sales, Total Profit
 
-Interactive dashboard with filters:
+Interactive dashboard with filters: [https://public.tableau.com/app/profile/mercy.kirwa8197/viz/superstoretableau_17703308227100/Dashboard1?publish=yes]
 
 Revenue by Sub-Category (Bar)
 
@@ -81,7 +81,7 @@ Optimize inventory and marketing in profitable regions.
 
 Adjust pricing and discount strategies to improve margins.
 
-⚙️ Tools Used
+### ⚙️ Tools Used
 
 Languages: Python
 
@@ -91,7 +91,7 @@ Visualization & Dashboarding: Tableau
 
 Environment: Jupyter Notebook
 
-✅ Key Results
+### ✅ Key Results
 
 - Top Sub-Categories by Revenue: Furniture and Technology dominate total sales.
 
@@ -103,7 +103,7 @@ Environment: Jupyter Notebook
 
 - Regional Insights: West and East regions outperform others in sales and profit.
 
-🔑 Key Insights
+### 🔑 Key Insights
 
 Revenue is concentrated in a small number of high-performing products and sub-categories.
 
@@ -113,7 +113,7 @@ Seasonal sales trends indicate opportunities for timely marketing campaigns.
 
 Discount strategy should balance revenue growth vs margin erosion.
 
-📝 Final Recommendations
+### 📝 Final Recommendations
 
 - Focus on High Revenue Products
 
@@ -133,7 +133,7 @@ Discount strategy should balance revenue growth vs margin erosion.
 
 - Implement targeted promotions for high-demand products.
 
-💻 Getting Started
+### 💻 Getting Started
 1. 📦 Clone the Repository
 git clone https://github.com/Mercykirwa25/FUTURE_DS_01
 
@@ -167,6 +167,6 @@ Connect to superstore_sales.csv
 
 Build KPIs, charts, and interactive dashboard following the workflow.
 
-🫱🏽‍🫲🏽 Acknowledgements
+### 🫱🏽‍🫲🏽 Acknowledgements
 
 Dataset contributors: Superstore Sales Dataset – Kaggle
